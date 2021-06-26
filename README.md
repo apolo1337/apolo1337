@@ -44,6 +44,9 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
 
+[<img align="left" alt="Apolo | Youtube" width="120px" src="https://img.pngio.com/data-repository-icon-374557-free-icons-library-repository-png-464_467.jpg" />][repositorios]
+
 [website]: https://github.com/apolo1337/
 [twitter]: https://twitter.com/666_nutria
 [youtube]: https://www.youtube.com/channel/UCdMHQXuryIDTrOlxfAlvTQA
+[repositorios]: https://github.com/apolo1337?tab=repositories
