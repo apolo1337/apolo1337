@@ -31,8 +31,9 @@ I love ⚽ & 🥊
 
 
 ### You can find in me in the web 🌍
-[<img align="left" alt="Souarvdey777" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Globe_icon-white.svg/120px-Globe_icon-white.svg.png" />][website]
-[<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="apolo1337" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Globe_icon-white.svg/120px-Globe_icon-white.svg.png" />][website]
+[<img align="left" alt="666_nutria | Twitter" width="22px" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" />][twitter]
+[<img align="left" alt="Apolo | Youtube" width="22px" src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" />][youtube]
 
 <br/>
 
