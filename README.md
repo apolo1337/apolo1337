@@ -39,13 +39,6 @@ I love ⚽ & 🥊
 
 
 ---
-### You can checkout my blogs :loudspeaker: 
-
-[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=vertical)](https://medium.com/@Souravdey777)
-
-[Add your blogs to your github profile using my Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs) 
-
----
 
 Let's connect 👨‍💻 and forge the future together.😁✌
 
