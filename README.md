@@ -33,7 +33,6 @@ I love ⚽ & 🥊
 ### You can find in me in the web 🌍
 [<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
 
@@ -50,8 +49,6 @@ I love ⚽ & 🥊
 Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
-
-:star: From [Souravdey777](https://github.com/Souravdey777)
 
 [website]: https://github.com/apolo1337/
 [twitter]: https://twitter.com/666_nutria
