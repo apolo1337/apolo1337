@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://github.com/apolo1337/apolo1337/blob/main/Card.png?raw=true" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 I am Apolo, 17yo boy, im not studying nothing atm but im learning some languages. Im working on a DDoS Mitigation Service called SpoofShield.
