@@ -42,7 +42,9 @@ I love ⚽ & 🥊
 
 Let's connect 👨‍💻 and forge the future together.😁✌
 
-**Check the Repositories and don't forget to give a star.** 👇
+---
+
+# Check now my repositories and don't forget give me a ⭐
 
 [<img align="left" alt="Apolo | Youtube" width="120px" src="https://img.pngio.com/data-repository-icon-374557-free-icons-library-repository-png-464_467.jpg" />][repositorios]
 
