@@ -1,4 +1,4 @@
-### Hey Sourav here 👋
+### Welcome to my profile! 👋
 
 ---
 
@@ -21,7 +21,7 @@ I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while 
  💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
 
 
-![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://gpvc.arturio.dev/apolo1337)  <img src="https://img.shields.io/github/followers/apolo1337?label=Follow" style=" float:left, margin-right:10px" />
 
 
 ---
@@ -85,9 +85,6 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 :star: From [Souravdey777](https://github.com/Souravdey777)
 
-[website]: https://souravdey777.github.io/Portfolio/
-[twitter]: https://twitter.com/Souravdey777
-[youtube]: https://youtube.com/
-[instagram]: https://www.instagram.com/souravdey777/
-[linkedin]: https://www.linkedin.com/in/sourav-dey/
-[medium]: https://medium.com/@Souravdey777/
+[website]: https://github.com/apolo1337/
+[twitter]: https://twitter.com/666_nutria
+[youtube]: https://www.youtube.com/channel/UCdMHQXuryIDTrOlxfAlvTQA
