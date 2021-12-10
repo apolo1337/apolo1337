@@ -1,54 +1,50 @@
-### Welcome to my profile! 👋
 
----
+<center>
 
-<p align="center">
-  <img src="https://github.com/apolo1337/apolo1337/blob/main/Card.png?raw=true" width="100%" title="Intro Card" alt="Intro Card">
+<p align="middle">
+
+```bash
+
+> neofetch
+
+```
+<img src="https://imgur.com/xva0kra.png" align="left" src="https://i.pinimg.com/originals/96/a0/fc/96a0fce84427fedab035cc02f68332a3.jpg" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="260">
+
+```py
+
+
+apolo1337@github
+----------------
+
+       OS  :  Arch Linux
+       WM  :  Openbox
+    Shell  :  Bash
+ Terminal  :  Alacritty
+      CPU  :  AMD FX(tm)-6300
+    Alias  :  Nano
+     Orgs  :  sk1nnyNetworks & OtterServers
+Languages  :  Python, javascript, C++ & C#
+  
+```
+
+
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="#474342" src="https://via.placeholder.com/15/FFFF00/000000?text=+" width="25" height="20" />
+  <img alt="#fbedf6" src="https://via.placeholder.com/15/000000/000000?text=+" width="25" height="20" />
+  <img alt="#c9594d" src="https://via.placeholder.com/15/ADD8E6/000000?text=+" width="25" height="20" />
+  <img alt="#f8b9b2" src="https://via.placeholder.com/15/FFFFFF/000000?text=+" width="25" height="20" />
+  <img alt="#f8b9b2" src="https://via.placeholder.com/15/800080/000000?text=+" width="25" height="20" />
+	<img src="https://komarev.com/ghpvc/?username=psauxx&style=flat-square" width="110" height="20" ><br><br>
+	<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=psauxx&show_icons=true&theme=radical" />
+	<img width="290" height="120" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=psauxx&theme=radical&layout=compact&exclude_lang=java+r" /> 
 </p>
 
-I am Apolo, 17yo boy, im not studying nothing atm but im learning some languages. Im working on a DDoS Mitigation Service called SpoofShield.
-
-I love ⚽ & 🥊
+	
 
 
-![Profile views](https://gpvc.arturio.dev/apolo1337)  <img src="https://img.shields.io/github/followers/apolo1337?label=Follow" style=" float:left, margin-right:10px" />
+<p align="middle">
+	
 
 
----
-
-
-### Im Learning this languages
-
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=apolo1337&show_icons=true&hide_border=true)
-
----
-
-
-### You can find in me in the web 🌍
-[<img align="left" alt="apolo1337" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Globe_icon-white.svg/120px-Globe_icon-white.svg.png" />][website]
-[<img align="left" alt="666_nutria | Twitter" width="22px" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" />][twitter]
-[<img align="left" alt="Apolo | Youtube" width="22px" src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" />][youtube]
-
-<br/>
-
-
----
-
-Let's connect 👨‍💻 and forge the future together.😁✌
-
----
-
-# Check now my repositories and don't forget give me a ⭐
-
-[<img align="left" alt="Apolo | Youtube" width="120px" src="https://img.pngio.com/data-repository-icon-374557-free-icons-library-repository-png-464_467.jpg" />][repositorios]
-
-[website]: https://github.com/apolo1337/
-[twitter]: https://twitter.com/666_nutria
-[youtube]: https://www.youtube.com/channel/UCdMHQXuryIDTrOlxfAlvTQA
-[repositorios]: https://github.com/apolo1337?tab=repositories
+</p>
