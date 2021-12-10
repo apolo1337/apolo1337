@@ -22,8 +22,8 @@ apolo1337@github
  Terminal  :  Alacritty
       CPU  :  AMD FX(tm)-6300
     Alias  :  Nano
-     Orgs  :  sk1nnyNetworks & OtterServers
-Languages  :  Python, javascript, C++ & C#
+     Orgs  :  OtterNetworks
+Languages  :  Python, javascript, C++, C#
   
 ```
 
@@ -31,8 +31,7 @@ Languages  :  Python, javascript, C++ & C#
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 	<img src="https://komarev.com/ghpvc/?username=apolo1337&style=flat-square" width="110" height="20" ><br><br>
-	<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=psauxx&show_icons=true&theme=radical" />
-	<img width="290" height="120" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=psauxx&theme=radical&layout=compact&exclude_lang=java+r" /> 
+	<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=apolo1337&show_icons=true&theme=radical" />
 </p>
 
 	
