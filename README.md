@@ -13,7 +13,7 @@
 ```py
 
 
-apolo1337@github
+ottersec@github
 ----------------
 
        OS  :  Arch Linux
@@ -30,8 +30,8 @@ Languages  :  Python, javascript, C++, C#
 
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-	<img src="https://komarev.com/ghpvc/?username=apolo1337&style=flat-square" width="110" height="20" ><br><br>
-	<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=apolo1337&show_icons=true&theme=radical" />
+	<img src="https://komarev.com/ghpvc/?username=ottersec2015&style=flat-square" width="110" height="20" ><br><br>
+	<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=ottersec2015&show_icons=true&theme=radical" />
 </p>
 
 	
